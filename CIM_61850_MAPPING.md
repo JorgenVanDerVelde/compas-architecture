@@ -1,3 +1,9 @@
+---
+layout: default
+title: SSD Import from CIM
+parent: Functional Architecture
+nav_order: 2
+---
 ## Mapping CIM - IEC 61850
 
 We got a mapping example from RTE, they already created a mapping between CIM files and IEC 61850 files.

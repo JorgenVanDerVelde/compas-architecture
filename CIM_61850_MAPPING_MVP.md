@@ -1,3 +1,9 @@
+---
+layout: default
+title: SSD Import from CIM MVP
+parent: Functional Architecture
+nav_order: 2
+---
 ## Architecture for CIM - IEC 61850 mapping.
 
 To do the mapping, we need some kind of XML processing tool for processing incoming / outgoing XML files.

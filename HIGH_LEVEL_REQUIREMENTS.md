@@ -1,3 +1,9 @@
+---
+layout: default
+title: Requirements
+nav_order: 2
+---
+
 ## High Level CoMPAS Requirements
 
 This page presents the high level requirements for the CoMPAS project.
