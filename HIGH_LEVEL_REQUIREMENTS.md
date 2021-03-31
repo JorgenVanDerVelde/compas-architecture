@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Requirements"
+layout: page
+title: Requirements
 nav_order: 2
 ---
 

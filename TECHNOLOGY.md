@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Technology"
+layout: page
+title: Technology
 nav_order: 5
 ---
 # Technology

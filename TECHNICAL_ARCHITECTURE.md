@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Technical Architecture"
 nav_order: 4
 ---

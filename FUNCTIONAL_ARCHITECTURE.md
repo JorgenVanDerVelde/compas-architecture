@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Functional Architecture"
+layout: page
+title: Functional Architecture
 nav_order: 3
 has_children: true
 ---

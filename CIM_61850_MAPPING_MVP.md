@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "SSD Import from CIM MVP"
-parent: "Functional Architecture"
+layout: page
+title: SSD Import from CIM MVP
+parent: Functional Architecture
 nav_order: 2
 ---
 ## Architecture for CIM - IEC 61850 mapping.
