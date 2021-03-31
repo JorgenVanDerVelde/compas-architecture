@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tool Choices
+nav_exclude: true
+---
 # Tool Choices
 The right tool choices are key to a good project.
 # CI/CD tool

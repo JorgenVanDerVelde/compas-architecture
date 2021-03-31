@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "Readme"
 nav_order: 1
 ---
 # CoMPAS Architecture

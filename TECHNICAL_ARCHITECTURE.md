@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Technical Architecture"
+nav_order: 4
+---
 ## Technical architecture
 
 ### Introduction

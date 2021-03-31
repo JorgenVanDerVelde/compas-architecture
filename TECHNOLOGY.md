@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Technology"
+nav_order: 5
+---
 # Technology
 
 This page lists the technologies and tools chosen for the project
