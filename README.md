@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Readme"
+title: Readme
+published: true
 nav_order: 1
 ---
+
 # CoMPAS Architecture
 
 [![Slack](public/LFEnergy-slack.svg)](http://lfenergy.slack.com/)

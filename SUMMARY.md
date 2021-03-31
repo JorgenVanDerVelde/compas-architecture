@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: Summary
+nav_exclude: true
+---
 # Summary​
 
 ## CoMPAS Architecture
