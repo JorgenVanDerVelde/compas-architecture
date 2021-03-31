@@ -19,6 +19,6 @@ baseurl:          /compas-architecture
 defaults:
   - 
     scope:
-      path: "README.md"
+      path: "INDEX.md"
     values:
       permalink: "index.html"
