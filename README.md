@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Readme
 published: true
 nav_order: 1
